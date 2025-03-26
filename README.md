@@ -13,8 +13,6 @@ Highlights the winning combination.
 Restart button to play again.
 
 🛠️ Technologies Used
-React.js – Frontend framework for building UI components.
+React.js – Core logic implementation and Frontend framework for building UI components.
 
 CSS (Tailwind CSS) – Styling and layout.
-
-JavaScript (ES6) – Core logic implementation.
